@@ -1,6 +1,6 @@
 {
   "name": "qatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slow query catcher",
   "main": "index.js",
   "scripts": {
